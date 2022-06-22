@@ -1,0 +1,41 @@
+
+.container {
+width: 100%;
+min-height:100%;
+
+}
+
+/* transform: matrix(1, 2, 3, 4, 5, 6);
+transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+transform: translate(120px, 50%);
+transform: scale(2, 0.5);
+transform: rotate(0.5turn);
+transform: skew(30deg, 20deg);
+transform: scale(0.5) translate(-100%, -100%);
+transform: perspective(17px); */
+
+/* img {
+    width:150px;
+    height:150px;
+    object-fit: contain;
+    display:flex;
+    margin-left: 50px;
+    background: linear-gradient(to right, green,blue);
+    object-fit: contain;
+    border-radius: 10px;
+    padding: 50px;
+    transform:scale(1);
+    transition: all 350ms;
+} 
+
+img:hover {
+    transform: rotate(180deg);
+
+} */
+
+
+.Tilt {
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); 
+    padding: 15px;
+    margin-left:15px;
+  }
